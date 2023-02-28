@@ -1,7 +1,7 @@
 {
     "devDependencies": {
         "@percy/cypress": "^1.0.4",
-        "cypress": "^3.3.1",
+        "cypress": "^12.7.0",
         "cypress-cucumber-preprocessor": "^1.10.0",
         "cypress-dark": "^1.7.10",
         "cypress-file-upload": "^2.0.0",
